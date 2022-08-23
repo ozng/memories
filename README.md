@@ -3,7 +3,7 @@
 ## Screenshots
 
 ### **Home**
-
+![Home](https://user-images.githubusercontent.com/93818025/186162652-58945afc-22ae-4968-9a07-529cd60ca950.PNG)
 ---
 
 ## Back-end setup
